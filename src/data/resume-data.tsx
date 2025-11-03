@@ -140,7 +140,6 @@ export const RESUME_DATA = {
     {
       title: "Nwahia",
       techStack: [
-        "Varscon",
         "TypeScript",
         "React",
         "Nest.js"
@@ -155,7 +154,6 @@ export const RESUME_DATA = {
     {
       title: "Lance Credit",
       techStack: [
-        "Lance Credit",
         "Dart",
         "Typescript",
         "Express.js",
@@ -172,7 +170,6 @@ export const RESUME_DATA = {
     {
       title: "Juicyway Mobile",
       techStack: [
-        "Juicyway",
         "Dart",
         "Flutter",
         "Riverpod"
@@ -187,7 +184,6 @@ export const RESUME_DATA = {
     {
       title: "Eden Mobile",
       techStack: [
-        "Eden",
         "Dart",
         "Flutter",
         "Riverpod"
@@ -202,7 +198,6 @@ export const RESUME_DATA = {
     {
       title: "OurPass Mobile",
       techStack: [
-        "OurPass",
         "Dart",
         "Flutter",
         "Riverpod"
@@ -217,7 +212,6 @@ export const RESUME_DATA = {
     {
       title: "Getstream.io react native SDK",
       techStack: [
-        "Getstream.io",
         "Typescript",
         "React",
         "React Native",
