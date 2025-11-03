@@ -1,6 +1,5 @@
 {
   "name": "resume",
-  "packageManager": "yarn@4.10.3",
   "private": true,
   "scripts": {
     "dev": "next dev",
